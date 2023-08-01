@@ -1,0 +1,40 @@
+#EXTINF:-1 tvg-logo="https://static.telewebion.com/channelsLogo/Y2U2NGUwOTYxMjczYzIwNjQwNDEzMzI0YTY0OWRlYjQ2NTU4NjYyYzg5MjIwOWZkZTUyOGE1ZmRiNjMwZjA4ZA/default",Pooya & Nahal
+https://cdn-azd2046.telewebion.com/pooya/live/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network US-1
+http://user.scalecdn.co:8080/TVGlobe/41b2ec3fc3/3618
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network US-2
+https://yttv.shirt.rip/biden/yttv/Taxh4HpCyVE.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Canada
+https://iptv.shirt.rip/dJv9QiStZ4o/rivertv/302728.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Poland
+http://149.62.183.220:4100/stream/channel/c4ac682044ed3a913d5cd677897f7f25?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Argentina-1
+http://200.59.213.32:9981/stream/channelid/481417035?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network Argentina-2
+http://200.59.213.32:9981/stream/channelid/1598680608?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png",Cartoon Network CZ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/7693
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2000_Favicon.svg/revision/latest/scale-to-width-down/250?cb=20160522194014",Boomerang East
+https://e1.thetvapp.to/hls/Boomerang.m3u8?token=jEgYclJBXcB-g948ZaD25w&expires=1690892106
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2000_Favicon.svg/revision/latest/scale-to-width-down/250?cb=20160522194014",Boomerang Asia
+http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/165109
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon UK
+http://line.bebestpro.com/marekmachcinski/1YZGNTZAMX/100917
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon US
+https://yttv.shirt.rip/biden/yttv/F2v_jmYWU7E.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon International
+http://v3fjozxy.akciatv.ru/iptv/3LZRF5P29TCAG7/223/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon+1 Germany
+http://87.146.225.85:9981/stream/channel/0e4178cc13169f5d75e6a183682cfddb?ticket=220A09FEDE19BBDAAC40DC8F4AD8DB74A42783D8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png", TeenNick
+https://yttv.shirt.rip/biden/yttv/f4VaxTolqu0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",NickToons US
+https://yttv.shirt.rip/biden/yttv/DqQY3OGvXdU.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nick Jr. US
+https://yttv.shirt.rip/biden/yttv/ChXBu9nBr6s.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/1105824040440049856/1135648523782737950/image.png",Toonix HD
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://persianagroup.tv/assets/images/tv/Persiana%20Junior.png",Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://persianagroup.tv/assets/images/tv/Persiana%20Junior.png",Persiana Junior",Gem Junior
+https://hd.90minlive.online/live/gemjunior/chunks.m3u8
